@@ -14,6 +14,6 @@ These three projects have been worked on students during three course terms: Fal
 
 | Project | Repo | Code Cov |
 |---------|------|----------|
-| courses search | <https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search> [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search/branch/main/graph/badge.svg?token=oRuQrNWHMx)](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search) | 
+| courses search | <https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search/branch/main/graph/badge.svg?token=oRuQrNWHMx)](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search) | 
 | cs tutor program | <https://github.com/ucsb-cs156-s21/proj-ucsb-cs-las> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-cs-las/branch/main/graph/badge.svg?token=poVZRDCYYn)](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-cs-las) | 
 | mapache-search | <https://github.com/ucsb-cs156-s21/proj-mapache-search> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-mapache-search/branch/main/graph/badge.svg?token=1Pm4UopT0K)](https://codecov.io/gh/ucsb-cs156-s21/proj-mapache-search) | 
