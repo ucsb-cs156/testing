@@ -19,3 +19,13 @@ These three projects have been worked on students during three course terms: Fal
 | courses search | <https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search/branch/main/graph/badge.svg?token=oRuQrNWHMx)](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-courses-search) | 
 | cs tutor program | <https://github.com/ucsb-cs156-s21/proj-ucsb-cs-las> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-cs-las/branch/main/graph/badge.svg?token=poVZRDCYYn)](https://codecov.io/gh/ucsb-cs156-s21/proj-ucsb-cs-las) | 
 | mapache-search | <https://github.com/ucsb-cs156-s21/proj-mapache-search> | [![codecov](https://codecov.io/gh/ucsb-cs156-s21/proj-mapache-search/branch/main/graph/badge.svg?token=1Pm4UopT0K)](https://codecov.io/gh/ucsb-cs156-s21/proj-mapache-search) | 
+
+# Course Materials
+
+The course offering described in the paper is from Fall 2020.   The same projects were continued during Winter 2021 and Spring 2021.  Course materials can be found below.   
+
+| Term | Course Web Site |
+|------|-----------------|
+| Fall 2020 | <https://ucsb-cs156.github.io/f20> |
+| Winter 2021 | <https://ucsb-cs156.github.io/w21> |
+| Spring 2021 | <https://ucsb-cs156.github.io/s21> |
