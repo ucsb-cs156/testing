@@ -26,6 +26,7 @@ The course offering described in the paper is from Fall 2020.   The same project
 
 | Term | Course Web Site |
 |------|-----------------|
+| Shared Materials | <https://ucsb-cs156.github.io/> |
 | Fall 2020 | <https://ucsb-cs156.github.io/f20> |
 | Winter 2021 | <https://ucsb-cs156.github.io/w21> |
 | Spring 2021 | <https://ucsb-cs156.github.io/s21> |
