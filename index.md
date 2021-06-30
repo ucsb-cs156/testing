@@ -11,8 +11,9 @@ Scott P. Chow, Tanay Komarlu, and Phillip T. Conrad. 2021. Teaching Testing with
 
 These three projects have been worked on students during three course terms: Fall 2020, Winter 2021, and Spring 2021.
 
-* courses search: <https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search>
-* cs-las: <https://github.com/ucsb-cs156-s21/proj-ucsb-cs-las>
-* mapache-search: <https://github.com/ucsb-cs156-s21/proj-mapache-search>
 
-
+| Project | Repo | Code Cov |
+|---------|------|----------|
+| courses search | <https://github.com/ucsb-cs156-s21/proj-ucsb-courses-search> |  | 
+| cs tutor program | <https://github.com/ucsb-cs156-s21/proj-ucsb-cs-las> |  | 
+| mapache-search | <https://github.com/ucsb-cs156-s21/proj-mapache-search> |  | 
